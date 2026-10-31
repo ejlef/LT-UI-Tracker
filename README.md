@@ -1,6 +1,14 @@
-# 📱 Live UI Tracker
 
-**Monitor. Identify. Remove Unwanted Apps.**
+
+<p align="center">
+  <img src="assets/app_icon.png" width="150" alt="Live UI Tracker Logo">
+</p>
+
+<h1 align="center">Live UI Tracker</h1>
+
+<p align="center">
+  <b>Monitor. Identify. Remove Unwanted Apps.</b>
+</p>
 
 Live UI Tracker is an Android application designed to help users monitor active applications, identify unfamiliar or potentially unwanted apps, and easily access application settings for further inspection or uninstallation.
 
