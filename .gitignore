@@ -1,0 +1,71 @@
+# ==========================================
+# LIVE UI TRACKER
+# ==========================================
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter/
+build/
+coverage/
+doc/api/
+
+# Dart generated files
+*.g.dart
+*.freezed.dart
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Android build files
+android/.gradle/
+android/local.properties
+android/captures/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Android signing credentials
+android/key.properties
+*.jks
+*.keystore
+
+# Kotlin / Gradle
+.gradle/
+**/gradle-app.setting
+**/gradle-wrapper.jar
+**/.gradletasknamecache
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Firebase private credentials
+service-account*.json
+firebase-adminsdk*.json
+google-services-admin.json
+
+# Python (if used for ML tools)
+__pycache__/
+*.py[cod]
+venv/
+.venv/
