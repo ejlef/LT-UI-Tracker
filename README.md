@@ -1,6 +1,4 @@
-
-
-<p align="center">
+ <p align="center">
   <img src="assets/app_icon.png" width="150" alt="Live UI Tracker Logo">
 </p>
 
@@ -10,45 +8,56 @@
   <b>Monitor. Identify. Remove Unwanted Apps.</b>
 </p>
 
-Live UI Tracker is an Android application designed to help users monitor active applications, identify unfamiliar or potentially unwanted apps, and easily access application settings for further inspection or uninstallation.
+---
 
-With its convenient floating LT bubble, users can quickly check which application is currently active without navigating through multiple settings.
+Live UI Tracker is an Android application that helps users monitor active applications, browse installed apps, view application details, and manage application removal.
 
-## ✨ Features
+## ✨ Key Features
 
-- **Foreground App Detection** – Identify recently used and currently active applications.
-- **Floating LT Bubble** – Access the tracker while using other applications.
-- **Draggable Floating Overlay** – Reposition the tracker bubble anywhere on the screen.
-- **Application Information** – View the detected application's name and package name.
-- **Quick App Info Access** – Open Android App Info to inspect or uninstall an application.
-- **Usage Access Monitoring** – Check the required application monitoring permission.
-- **Overlay Permission Management** – Manage permission for the floating tracker.
-- **Tracker Controls** – Start or stop application monitoring through the dashboard.
+- **Live App Monitoring** – Detect currently active applications in real time.
+- **Floating LT Bubble** – Draggable floating tracker accessible over other applications.
+- **Installed Apps Manager** – Browse all installed applications.
+- **App Search** – Search by application name or package name.
+- **App Filtering** – Filter All Apps, User Apps, and System Apps.
+- **App Statistics** – View total, user, and system application counts.
+- **Native App Icons** – Display actual application icons directly from Android.
+- **App Details** – View package name, version, installation date, and last update.
+- **Normal Uninstall** – Use Android's native uninstall confirmation.
+- **Force Uninstall (Root)** – Attempt automatic application removal with authorized root access.
+- **Root Detection** – Automatically check root availability.
+- **Permission Management** – Check required Android permissions.
+- **Automatic Refresh** – Keep tracker status and installed application lists updated.
 
-## 🎯 Purpose
+## ⚠️ Root Access Warning
 
-Live UI Tracker aims to make it easier for users to identify unfamiliar applications and investigate potentially unwanted software, including adware.
+**ROOT USERS ONLY**
 
-It provides convenient access to Android application information and uninstall settings, helping users take action against applications they do not recognize or want on their devices.
+Force Uninstall requires a rooted Android device and authorized root access. Removing system applications may affect device functionality or stability.
 
-**Note:** Live UI Tracker assists with identifying and manually uninstalling unwanted applications. It does not automatically detect or remove all forms of adware.
+Non-rooted devices can still use normal Android uninstall.
 
-## 🔮 Planned Improvements
+## ⚠️ Disclaimer & Liability
 
-- [ ] Installed application scanner.
-- [ ] Recently installed application history.
-- [ ] Suspicious application identification.
-- [ ] Application permission inspection.
-- [ ] Adware detection assistance.
-- [ ] Improved application usage history.
-- [ ] Enhanced monitoring dashboard.
+Live UI Tracker is provided for educational and personal use. Use the application at your own risk.
+
+- Users are responsible for how they use the application and its features.
+- Root access and force uninstall operations may cause system errors, data loss, or device instability.
+- Removing essential system applications may affect normal device functionality.
+- Always understand the consequences before performing application removal.
+- The developer is not responsible for device damage, data loss, system issues, or other problems resulting from improper use, misuse, or unauthorized operations.
+
+**By using Live UI Tracker, you acknowledge that you are responsible for your actions and use of the application.**
+
+
 
 ## 👨‍💻 Developer
 
-**Felje Menor**
+**ejlef**
 
 GitHub: [@ejlef](https://github.com/ejlef)
 
 ---
 
-**Live UI Tracker — Monitor. Identify. Stay in Control.**
+⭐ If you like this project, give the repository a star!
+
+**Live UI Tracker — Monitor, Identify, and Manage.**
