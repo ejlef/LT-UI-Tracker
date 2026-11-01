@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.adware_removal"
+    namespace = "com.fnc.liveuitracker"
 
     compileSdk = 35
     ndkVersion = flutter.ndkVersion
@@ -23,7 +23,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.adware_removal"
+        applicationId = "com.fnc.liveuitracker"
 
         minSdk = 23
         targetSdk = 35
