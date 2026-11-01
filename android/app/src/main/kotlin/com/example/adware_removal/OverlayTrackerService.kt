@@ -1,5 +1,5 @@
 
-package com.example.adware_removal
+package com.fnc.liveuitracker
 
 import android.app.Notification
 import android.app.NotificationChannel

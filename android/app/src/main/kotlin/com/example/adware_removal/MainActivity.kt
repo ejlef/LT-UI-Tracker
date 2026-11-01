@@ -1,5 +1,5 @@
 
-package com.example.adware_removal
+package com.fnc.liveuitracker
 
 import android.Manifest
 import android.app.AppOpsManager
